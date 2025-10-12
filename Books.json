@@ -1,0 +1,1178 @@
+[
+  {
+    "title": "Yüzüklerin Efendisi",
+    "summary": "Yüzüğün gölgesinde şekillenen epik bir yolculuk.",
+    "moods": ["ilhamlı", "mutlu"],
+    "genres": ["fantastik", "macera"]
+  },
+  {
+    "title": "Hobbit",
+    "summary": "Beklenmedik bir macerada cesaretin doğuşu.",
+    "moods": ["sakin", "mutlu"],
+    "genres": ["fantastik", "macera"]
+  },
+  {
+    "title": "Dune",
+    "summary": "Çöl gezegeninde güç, kehanet ve ekoloji çatışması.",
+    "moods": ["düşünceli"],
+    "genres": ["bilim kurgu"]
+  },
+  {
+    "title": "1984",
+    "summary": "Gözetim ve baskı altında bireyin direnişi.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["distopya", "klasik"]
+  },
+  {
+    "title": "Cesur Yeni Dünya",
+    "summary": "Yapay mutluluğun bedeli üzerine bir gelecek tasviri.",
+    "moods": ["düşünceli"],
+    "genres": ["distopya", "bilim kurgu"]
+  },
+  {
+    "title": "Fahrenheit 451",
+    "summary": "Kitapların yakıldığı bir dünyada düşünmenin kıvılcımı.",
+    "moods": ["gergin"],
+    "genres": ["distopya", "bilim kurgu"]
+  },
+  {
+    "title": "Marslı",
+    "summary": "Mars’ta mizah ve zekâ ile hayatta kalma savaşı.",
+    "moods": ["ilhamlı", "mutlu"],
+    "genres": ["bilim kurgu", "macera"]
+  },
+  {
+    "title": "Sherlock Holmes: Kızıl Dosya",
+    "summary": "Keskin zekâ ve gözlemle çözülen ilk gizem.",
+    "moods": ["meraklı", "sakin"],
+    "genres": ["polisiye", "gerilim"]
+  },
+  {
+    "title": "Da Vinci Şifresi",
+    "summary": "Semboller ve sırlarla dolu soluksuz bir takip.",
+    "moods": ["gergin", "meraklı"],
+    "genres": ["gerilim", "polisiye"]
+  },
+  {
+    "title": "Dracula",
+    "summary": "Karanlığın çekimiyle insanlığın sınavı.",
+    "moods": ["gergin"],
+    "genres": ["korku", "klasik"]
+  },
+  {
+    "title": "Frankenstein",
+    "summary": "Yaratımın sorumluluğu ve yalnızlığın yankısı.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["korku", "klasik"]
+  },
+  {
+    "title": "Uçurtma Avcısı",
+    "summary": "Sadakat ve kefaretin kırılgan hikâyesi.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["dram"]
+  },
+  {
+    "title": "Fareler ve İnsanlar",
+    "summary": "Kırılgan hayallerin sert bir dünyadaki sınavı.",
+    "moods": ["hüzünlü"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Gazap Üzümleri",
+    "summary": "Göç yolunda umut ve dayanışmanın destanı.",
+    "moods": ["düşünceli"],
+    "genres": ["klasik", "tarihi", "dram"]
+  },
+  {
+    "title": "Kürk Mantolu Madonna",
+    "summary": "Sessiz bir ruhun derin bir aşkla yüzleşmesi.",
+    "moods": ["romantik", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Simyacı",
+    "summary": "Kendi hazineni ararken yolun kendisini keşfetmek.",
+    "moods": ["ilhamlı", "sakin"],
+    "genres": ["kişisel gelişim", "öykü"]
+  },
+  {
+    "title": "Sapiens",
+    "summary": "İnsan türünün kısa bir tarihine geniş bir bakış.",
+    "moods": ["düşünceli"],
+    "genres": ["tarihi", "deneme"]
+  },
+  {
+    "title": "Hayvan Çiftliği",
+    "summary": "Güç ve propagandanın alegorik bir eleştirisi.",
+    "moods": ["düşünceli"],
+    "genres": ["klasik", "distopya"]
+  },
+  {
+    "title": "Karanlığın Yüreği",
+    "summary": "İçsel ve sömürgeci karanlığa bir yolculuk.",
+    "moods": ["düşünceli", "gergin"],
+    "genres": ["klasik", "tarihi"]
+  },
+  {
+    "title": "Dorian Gray’in Portresi",
+    "summary": "Güzellik, ahlak ve çürümenin büyüleyici kesişimi.",
+    "moods": ["düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Monte Kristo Kontu",
+    "summary": "İhanetin ardından sabır ve zekâyla gelen intikam.",
+    "moods": ["enerjik", "düşünceli"],
+    "genres": ["klasik", "macera"]
+  },
+  {
+    "title": "Üç Silahşör",
+    "summary": "Dostluk ve onurun kılıç gölgesindeki serüveni.",
+    "moods": ["mutlu", "enerjik"],
+    "genres": ["klasik", "macera", "tarihi"]
+  },
+  {
+    "title": "Denizler Altında Yirmi Bin Fersah",
+    "summary": "Denizlerin derinliklerinde keşif ve gizem.",
+    "moods": ["meraklı", "sakin"],
+    "genres": ["klasik", "bilim kurgu", "macera"]
+  },
+  {
+    "title": "Gizemli Ada",
+    "summary": "Issız bir adada akıl ve bilimin sınavı.",
+    "moods": ["ilhamlı", "meraklı"],
+    "genres": ["klasik", "macera", "bilim kurgu"]
+  },
+  {
+    "title": "Robinson Crusoe",
+    "summary": "Yalnız bir adada hayatta kalmanın öğretisi.",
+    "moods": ["sakin", "ilhamlı"],
+    "genres": ["klasik", "macera"]
+  },
+  {
+    "title": "Define Adası",
+    "summary": "Haritalar, korsanlar ve büyüyen bir cesaret.",
+    "moods": ["mutlu", "enerjik"],
+    "genres": ["klasik", "macera"]
+  },
+  {
+    "title": "80 Günde Devri Alem",
+    "summary": "Dünyanın etrafında zamana karşı yarış.",
+    "moods": ["enerjik", "mutlu"],
+    "genres": ["klasik", "macera"]
+  },
+  {
+    "title": "Moby Dick",
+    "summary": "Takıntının beyaz bir balinada cisimleşmesi.",
+    "moods": ["düşünceli", "gergin"],
+    "genres": ["klasik", "macera"]
+  },
+  {
+    "title": "Bülbülü Öldürmek",
+    "summary": "Adalet ve empati üzerine büyüme hikâyesi.",
+    "moods": ["düşünceli", "hüzünlü"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Gurur ve Önyargı",
+    "summary": "Aşk ve toplumsal beklentilerin ince dansı.",
+    "moods": ["romantik", "sakin"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Jane Eyre",
+    "summary": "Bağımsız bir ruhun sevgi ve özgürlük arayışı.",
+    "moods": ["düşünceli", "romantik"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Vadideki Zambak",
+    "summary": "Tutku ve fedakârlığın sessiz yankısı.",
+    "moods": ["romantik", "hüzünlü"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Anna Karenina",
+    "summary": "Aşk, toplum ve vicdan arasında bir trajedi.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Savaş ve Barış",
+    "summary": "İnsanlık ve tarih arasında dev bir panorama.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["klasik", "tarihi", "dram"]
+  },
+  {
+    "title": "Suç ve Ceza",
+    "summary": "Vicdanın karanlıkla mücadelesi.",
+    "moods": ["düşünceli"],
+    "genres": ["klasik", "psikoloji", "dram"]
+  },
+  {
+    "title": "Karamazov Kardeşler",
+    "summary": "İnanç, şüphe ve aile bağlarının sınavı.",
+    "moods": ["düşünceli"],
+    "genres": ["klasik", "felsefe", "dram"]
+  },
+  {
+    "title": "Yeraltından Notlar",
+    "summary": "İç hesaplaşmanın keskin bir itirafı.",
+    "moods": ["düşünceli", "hüzünlü"],
+    "genres": ["klasik", "felsefe"]
+  },
+  {
+    "title": "Yabancı",
+    "summary": "Kaygısızlığın anlam arayışıyla yüzleşmesi.",
+    "moods": ["düşünceli"],
+    "genres": ["klasik", "absürd", "dram"]
+  },
+  {
+    "title": "Dönüşüm",
+    "summary": "Bir sabah başka bir şeye uyanmanın ağırlığı.",
+    "moods": ["düşünceli", "hüzünlü"],
+    "genres": ["klasik", "absürd"]
+  },
+  {
+    "title": "Körlük",
+    "summary": "Toplumsal çöküşte insanlığın çıplak hâli.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["dram", "distopya"]
+  },
+  {
+    "title": "Papatya Tarlasında Rüzgar",
+    "summary": "İçsel huzurun peşinde sessiz bir yürüyüş.",
+    "moods": ["sakin", "ilhamlı"],
+    "genres": ["öykü", "deneme"]
+  },
+  {
+    "title": "Hayatın Kaynağı",
+    "summary": "Bireycilik ve yaratıcılığın ateşli savunusu.",
+    "moods": ["ilhamlı", "düşünceli"],
+    "genres": ["felsefe", "dram"]
+  },
+  {
+    "title": "Atlas Silkindi",
+    "summary": "Üretimin anlamı ve sorumluluğun ağırlığı.",
+    "moods": ["düşünceli", "enerjik"],
+    "genres": ["felsefe", "dram"]
+  },
+  {
+    "title": "Zamanın Kısa Tarihi",
+    "summary": "Evrenin kapılarını aralayan kısa bir yolculuk.",
+    "moods": ["meraklı", "sakin"],
+    "genres": ["deneme", "bilim"]
+  },
+  {
+    "title": "Evrenin Öyküsü",
+    "summary": "Büyük patlamadan insana uzanan bir anlatı.",
+    "moods": ["meraklı", "ilhamlı"],
+    "genres": ["deneme", "bilim"]
+  },
+  {
+    "title": "Dune Mesihi",
+    "summary": "Güç sahipliğinin bedeli ve kehanetin gölgesi.",
+    "moods": ["düşünceli"],
+    "genres": ["bilim kurgu"]
+  },
+  {
+    "title": "Çocukluğun Sonu",
+    "summary": "İlerleme ile kimlik arasındaki ince çizgi.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["bilim kurgu"]
+  },
+  {
+    "title": "Vakıf",
+    "summary": "Tarihi matematikle şekillendirme girişimi.",
+    "moods": ["düşünceli", "meraklı"],
+    "genres": ["bilim kurgu"]
+  },
+  {
+    "title": "Ben, Robot",
+    "summary": "Üç yasa ve insan doğasının yansımaları.",
+    "moods": ["düşünceli", "meraklı"],
+    "genres": ["bilim kurgu", "öykü"]
+  },
+  {
+    "title": "Neuromancer",
+    "summary": "Siberuzayda kimlik ve özgürlüğün peşinde.",
+    "moods": ["gergin", "enerjik"],
+    "genres": ["bilim kurgu", "gerilim"]
+  },
+  {
+    "title": "Karıncalar",
+    "summary": "Mikro bir dünyadan makro bir bakış.",
+    "moods": ["meraklı", "düşünceli"],
+    "genres": ["bilim kurgu", "gerilim"]
+  },
+  {
+    "title": "Kâğıt Ev",
+    "summary": "Kitaplara sığınmanın ince ve kırılgan bir portresi.",
+    "moods": ["sakin", "düşünceli"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Kör Baykuş",
+    "summary": "Kabus ve gerçekliğin iç içe geçtiği bir yalnızlık anlatısı.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Satranç",
+    "summary": "Zihin oyunlarının huzursuz edici düellosu.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "İnce Memed",
+    "summary": "Adalet arayışının dağlarda yankılanan çığlığı.",
+    "moods": ["ilhamlı", "düşünceli"],
+    "genres": ["klasik", "tarihi", "dram"]
+  },
+  {
+    "title": "Tutunamayanlar",
+    "summary": "Uyumsuzluğun mizah ve hüzünle yoğrulmuş haritası.",
+    "moods": ["düşünceli", "hüzünlü"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Tehlikeli Oyunlar",
+    "summary": "Kurmaca ile gerçek arasındaki keskin ipte yürüyüş.",
+    "moods": ["düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Saatleri Ayarlama Enstitüsü",
+    "summary": "Modernleşmenin absürt aynasında bir toplum portresi.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["klasik", "öykü"]
+  },
+  {
+    "title": "Kuyucaklı Yusuf",
+    "summary": "Anadolu’nun sertliğinde filizlenen bir aşk ve onur hikâyesi.",
+    "moods": ["hüzünlü", "romantik"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Kürk Mantolu Madonna",
+    "summary": "Sessiz bir kalpte yankılanan derin bir karşılaşma.",
+    "moods": ["romantik", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Aylak Adam",
+    "summary": "Kentin kalabalığında kaybolan bir benliğin arayışı.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["klasik", "öykü"]
+  },
+  {
+    "title": "Huzur",
+    "summary": "İç dünyanın fırtınalarıyla çevrili bir aşkın izleri.",
+    "moods": ["hüzünlü", "romantik"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Anayurt Oteli",
+    "summary": "Yalnızlığın sessizce büyüyen ağırlığı.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "psikoloji", "dram"]
+  },
+  {
+    "title": "Kayıp Zamanın İzinde: Swann’ların Tarafı",
+    "summary": "Belleğin kokularla açılan kapılarında bir gezinti.",
+    "moods": ["sakin", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Büyük Umutlar",
+    "summary": "Sınıflar arası yükselişin hayal kırıklıklarıyla yüzleşmesi.",
+    "moods": ["düşünceli", "hüzünlü"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "İki Şehrin Hikâyesi",
+    "summary": "Devrim gölgesinde fedakârlık ve umut.",
+    "moods": ["ilhamlı", "hüzünlü"],
+    "genres": ["klasik", "tarihi", "dram"]
+  },
+  {
+    "title": "Beyaz Diş",
+    "summary": "Doğanın sertliğinde sadakat ve hayatta kalma mücadelesi.",
+    "moods": ["ilhamlı", "sakin"],
+    "genres": ["klasik", "macera"]
+  },
+  {
+    "title": "Vadideki Zambak",
+    "summary": "Tutkunun sınandığı dingin bir melodi.",
+    "moods": ["romantik", "hüzünlü"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Notre Dame’ın Kamburu",
+    "summary": "Güzelliğin gölgesinde acının kıvrımları.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "dram", "tarihi"]
+  },
+  {
+    "title": "Sefiller",
+    "summary": "Merhamet ve adaletin uzun soluklu bir yürüyüşü.",
+    "moods": ["ilhamlı", "düşünceli"],
+    "genres": ["klasik", "dram", "tarihi"]
+  },
+  {
+    "title": "Dalgalar",
+    "summary": "Bilinç akışında dostluk ve zamanın izleri.",
+    "moods": ["sakin", "düşünceli"],
+    "genres": ["klasik", "öykü"]
+  },
+  {
+    "title": "Deniz Feneri",
+    "summary": "Aile ve zamanın sessiz kıyılarında bir bekleyiş.",
+    "moods": ["sakin", "hüzünlü"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Büyücüler",
+    "summary": "Gizli bir dünyanın cazibesi ve bedeli.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["fantastik", "dram"]
+  },
+  {
+    "title": "Yeraltı Demiryolu",
+    "summary": "Özgürlüğe giden yolun acı ve umutla örülü hattı.",
+    "moods": ["düşünceli", "ilhamlı"],
+    "genres": ["tarihi", "dram"]
+  },
+  {
+    "title": "Mülksüzler",
+    "summary": "İki dünyanın değerlerini tartan bir yolculuk.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["bilim kurgu", "dram"]
+  },
+  {
+    "title": "Karanlığın Sol Eli",
+    "summary": "Kimlik ve toplumsal cinsiyet üzerine bir keşif.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["bilim kurgu", "dram"]
+  },
+  {
+    "title": "Vakıf ve İmparatorluk",
+    "summary": "Geleceği planlamanın beklenmedik sapmaları.",
+    "moods": ["düşünceli"],
+    "genres": ["bilim kurgu"]
+  },
+  {
+    "title": "Benliğin Keşfi",
+    "summary": "İçsel pusulayı bulma üzerine kısa bir yürüyüş.",
+    "moods": ["ilhamlı", "sakin"],
+    "genres": ["kişisel gelişim", "deneme"]
+  },
+  {
+    "title": "Alışkanlıkların Gücü",
+    "summary": "Küçük değişimlerle büyük dönüşümlerin anatomisi.",
+    "moods": ["ilhamlı", "enerjik"],
+    "genres": ["kişisel gelişim", "deneme"]
+  },
+  {
+    "title": "Atomik Alışkanlıklar",
+    "summary": "Sistemli adımlarla sürdürülebilir ilerleme.",
+    "moods": ["ilhamlı", "sakin"],
+    "genres": ["kişisel gelişim", "deneme"]
+  },
+  {
+    "title": "Derin İş",
+    "summary": "Dikkatin değerini yeniden keşfetmek.",
+    "moods": ["ilhamlı", "düşünceli"],
+    "genres": ["kişisel gelişim", "deneme"]
+  },
+  {
+    "title": "Akış",
+    "summary": "Mutluluğun yoğun odakta bulunması.",
+    "moods": ["mutlu", "sakin"],
+    "genres": ["kişisel gelişim", "deneme"]
+  },
+  {
+    "title": "Duygusal Zekâ",
+    "summary": "Başarıda duyguların görünmeyen payı.",
+    "moods": ["düşünceli", "ilhamlı"],
+    "genres": ["kişisel gelişim", "psikoloji"]
+  },
+  {
+    "title": "İknanın Psikolojisi",
+    "summary": "Kararlarımızı şekillendiren görünmez kaldıraçlar.",
+    "moods": ["düşünceli", "enerjik"],
+    "genres": ["kişisel gelişim", "psikoloji"]
+  },
+  {
+    "title": "Hızlı ve Yavaş Düşünme",
+    "summary": "Zihnin iki vitesinin kısa bir haritası.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["psikoloji", "deneme"]
+  },
+  {
+    "title": "Zor Sorulara Kolay Cevaplar",
+    "summary": "Günlük kararların pratik akıl yürütmeleri.",
+    "moods": ["sakin", "ilhamlı"],
+    "genres": ["deneme", "kişisel gelişim"]
+  },
+  {
+    "title": "Kırılma Noktası",
+    "summary": "Küçük etkenlerin büyük sıçramalara yol açması.",
+    "moods": ["ilhamlı", "düşünceli"],
+    "genres": ["deneme", "kişisel gelişim"]
+  },
+  {
+    "title": "Outliers",
+    "summary": "Başarının arkasındaki görünmeyen bağlamlar.",
+    "moods": ["düşünceli", "ilhamlı"],
+    "genres": ["deneme", "kişisel gelişim"]
+  },
+  {
+    "title": "Tetikleyiciler",
+    "summary": "Davranış değişiminde çevrenin gücü.",
+    "moods": ["ilhamlı", "sakin"],
+    "genres": ["kişisel gelişim", "deneme"]
+  },
+  {
+    "title": "Küçük Prens",
+    "summary": "Çocuk yüreğinin sorularıyla büyüyen bir masal.",
+    "moods": ["sakin", "mutlu"],
+    "genres": ["öykü", "klasik"]
+  },
+  {
+    "title": "Martı",
+    "summary": "Sınırları aşmanın kısa ve özgür bir ilhamı.",
+    "moods": ["ilhamlı", "sakin"],
+    "genres": ["öykü", "kişisel gelişim"]
+  },
+  {
+    "title": "İnsancıklar",
+    "summary": "Yoksulluğun gölgesinde mektuplarla kurulan bir dünya.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Goriot Baba",
+    "summary": "Babacan bir sevginin şehirde eriyen fedakârlığı.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Vadideki Zambak",
+    "summary": "Sessiz bir tutkunun ince sarmalı.",
+    "moods": ["romantik", "hüzünlü"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Madame Bovary",
+    "summary": "Arzu ve gerçekliğin çarpıştığı bir hayat.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Kırmızı ve Siyah",
+    "summary": "Hırs ve toplum arasında salınan bir yükseliş.",
+    "moods": ["düşünceli", "gergin"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Germinal",
+    "summary": "Emek ve dayanışmanın karanlıkta parlayan kıvılcımı.",
+    "moods": ["düşünceli", "ilhamlı"],
+    "genres": ["klasik", "tarihi", "dram"]
+  },
+  {
+    "title": "Sineklerin Tanrısı",
+    "summary": "Medeniyetin kabuğu soyulunca kalan çıplaklık.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Bir İdam Mahkûmunun Son Günü",
+    "summary": "Yaşam ve adalet üzerine sarsıcı bir iç ses.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Sefaletin Coğrafyası",
+    "summary": "Eşitsizliğin izini süren kısa bir bakış.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["deneme", "tarihi"]
+  },
+  {
+    "title": "Kör Kütüphane",
+    "summary": "Bilginin saklandığı raflarda kaybolan bir iz sürüş.",
+    "moods": ["meraklı", "sakin"],
+    "genres": ["gerilim", "polisiye"]
+  },
+  {
+    "title": "Gölün Sırrı",
+    "summary": "Sessiz bir kasabada derine gömülü bir geçmiş.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["gerilim", "dram"]
+  },
+  {
+    "title": "Sisler İçinde",
+    "summary": "Görünmeyenin ardındaki kırılgan hikâyeler.",
+    "moods": ["sakin", "hüzünlü"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Yıldız Tozu",
+    "summary": "Gökyüzünün altında dileklerle örülü bir masal.",
+    "moods": ["mutlu", "ilhamlı"],
+    "genres": ["fantastik", "macera"]
+  },
+  {
+    "title": "Kayıp Harita",
+    "summary": "Eski bir haritanın peşinde zamanla yarış.",
+    "moods": ["enerjik", "meraklı"],
+    "genres": ["macera", "gerilim"]
+  },
+  {
+    "title": "Gölgelerin Oyunu",
+    "summary": "Gizli ittifakların tehlikeli satranç tahtası.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["gerilim", "polisiye"]
+  },
+  {
+    "title": "Zamanın Yankısı",
+    "summary": "Geçmişin fısıltılarıyla bugüne uzanan bağlar.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["tarihi", "dram"]
+  },
+  {
+    "title": "Kayıp Sözlük",
+    "summary": "Unutulmuş kelimelerin izinde bir arayış.",
+    "moods": ["sakin", "meraklı"],
+    "genres": ["deneme", "öykü"]
+  },
+  {
+    "title": "Kum Saatinin Ötesi",
+    "summary": "Zamanı bükmenin bedeli ve seçimlerin ağırlığı.",
+    "moods": ["düşünceli", "gergin"],
+    "genres": ["bilim kurgu", "gerilim"]
+  },
+  {
+    "title": "Gümüş Orman",
+    "summary": "Efsanelerle örülü sisli bir ormanda yolculuk.",
+    "moods": ["sakin", "mutlu"],
+    "genres": ["fantastik", "macera"]
+  },
+  {
+    "title": "Kayan Yıldızlar Geçidi",
+    "summary": "Göksel bir kapıdan yeni dünyalara adım.",
+    "moods": ["ilhamlı", "enerjik"],
+    "genres": ["bilim kurgu", "macera"]
+  },
+  {
+    "title": "Karanlık Suyun Şarkısı",
+    "summary": "Derin sularda saklı bir gerçeğin çağrısı.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["gerilim", "dram"]
+  },
+  {
+    "title": "Cam Şehir",
+    "summary": "Şeffaf duvarlarda yankılanan yalnız adımlar.",
+    "moods": ["sakin", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Buz Sarayı",
+    "summary": "Soğukta donmuş sırların kırılgan yüzeyi.",
+    "moods": ["hüzünlü", "sakin"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Kül ve Elmas",
+    "summary": "Yıkıntılar arasından filizlenen umut.",
+    "moods": ["ilhamlı", "hüzünlü"],
+    "genres": ["tarihi", "dram"]
+  },
+  {
+    "title": "Kırlangıç Yuvası",
+    "summary": "Rüzgârla taşınan mektupların sessizliği.",
+    "moods": ["sakin", "romantik"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Bir Yaz Gecesi Rüyası",
+    "summary": "Şakacı perilerin arasında karışan kalpler.",
+    "moods": ["mutlu", "romantik"],
+    "genres": ["klasik", "fantastik"]
+  },
+  {
+    "title": "Fırtına",
+    "summary": "Güç ve affedişin büyülü bir sahnesi.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["klasik", "fantastik"]
+  },
+  {
+    "title": "Macbeth",
+    "summary": "Hırsın gölgesinde kaderle çetin bir hesaplaşma.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Hamlet",
+    "summary": "Varoluşun sorularıyla örülü bir trajedi.",
+    "moods": ["düşünceli", "hüzünlü"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Romeo ve Juliet",
+    "summary": "Düşman aileler arasında filizlenen yakıcı aşk.",
+    "moods": ["romantik", "hüzünlü"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Othello",
+    "summary": "Kıskançlığın karanlıkta büyüyen gölgesi.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Kral Lear",
+    "summary": "Güç ve aile arasında yıpranan bir zihin.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Venedik Taciri",
+    "summary": "Merhamet ve adaletin terazisinde bir hesap.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "İvan İlyiç’in Ölümü",
+    "summary": "Son anlarda anlamın izini sürmek.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "İtiraflarım",
+    "summary": "İç dünyaya tutulan dürüst bir ayna.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["klasik", "deneme"]
+  },
+  {
+    "title": "Beyaz Geceler",
+    "summary": "Kısa bir buluşmanın uzun bir yankısı.",
+    "moods": ["romantik", "hüzünlü"],
+    "genres": ["klasik", "öykü"]
+  },
+  {
+    "title": "Palto",
+    "summary": "Küçük bir değişimin büyük bir yalnızlığı.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "öykü"]
+  },
+  {
+    "title": "Burun",
+    "summary": "Absürd bir kayıpla altüst olan itibar.",
+    "moods": ["mutlu", "düşünceli"],
+    "genres": ["klasik", "öykü"]
+  },
+  {
+    "title": "Ölü Canlar",
+    "summary": "Sahte listelerde dolaşan gerçek hayatlar.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Beyaz Gemi",
+    "summary": "Masal ve gerçek arasında sallanan bir çocukluk.",
+    "moods": ["hüzünlü", "sakin"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Dalgalar Kıyıya Vurduğunda",
+    "summary": "Kıyıda bekleyenlerin sessiz hikâyeleri.",
+    "moods": ["sakin", "hüzünlü"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Kayıp Günlükler",
+    "summary": "Zamanın aralığında unutulmuş notlar.",
+    "moods": ["sakin", "meraklı"],
+    "genres": ["öykü", "deneme"]
+  },
+  {
+    "title": "Gökteki İşaretler",
+    "summary": "Yıldızların dilini çözmeye çalışan bir merak.",
+    "moods": ["meraklı", "ilhamlı"],
+    "genres": ["deneme", "bilim"]
+  },
+  {
+    "title": "Sonsuzluğun Kıyısı",
+    "summary": "Ufukta beliren bilinmeyene kısa bir bakış.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["deneme", "bilim"]
+  },
+  {
+    "title": "Kara Delikler",
+    "summary": "Uzayın en gizemli kapılarının kısa öyküsü.",
+    "moods": ["meraklı", "sakin"],
+    "genres": ["deneme", "bilim"]
+  },
+  {
+    "title": "Zihin ve Madde",
+    "summary": "Bilinç ile fizik arasında köprüler aramak.",
+    "moods": ["düşünceli", "meraklı"],
+    "genres": ["deneme", "felsefe"]
+  },
+  {
+    "title": "Etik Üzerine",
+    "summary": "İyi yaşamın kısa ama keskin bir haritası.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["felsefe", "deneme"]
+  },
+  {
+    "title": "Mutluluğun Felsefesi",
+    "summary": "Basit alışkanlıklarla iyi olma hâline yaklaşmak.",
+    "moods": ["mutlu", "sakin"],
+    "genres": ["felsefe", "kişisel gelişim"]
+  },
+  {
+    "title": "Zor Zamanlarda Anlam Arayışı",
+    "summary": "Acının içinden geçerken tutunulacak anlam.",
+    "moods": ["düşünceli", "hüzünlü"],
+    "genres": ["psikoloji", "deneme"]
+  },
+  {
+    "title": "İrade ve Özgürlük",
+    "summary": "Seçimlerimizin görünmeyen mimarisi.",
+    "moods": ["düşünceli", "ilhamlı"],
+    "genres": ["psikoloji", "kişisel gelişim"]
+  },
+  {
+    "title": "Bilinçaltının İzleri",
+    "summary": "Alışkanlıkların köklerine kısa bir iniş.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["psikoloji", "deneme"]
+  },
+  {
+    "title": "Rüya Günlüğü",
+    "summary": "Gece hikâyelerinin gizli kapıları.",
+    "moods": ["sakin", "meraklı"],
+    "genres": ["psikoloji", "öykü"]
+  },
+  {
+    "title": "Yazmanın Yolu",
+    "summary": "Her gün biraz yazmanın açtığı kapılar.",
+    "moods": ["ilhamlı", "sakin"],
+    "genres": ["kişisel gelişim", "deneme"]
+  },
+  {
+    "title": "Yaratıcılık Alışkanlığı",
+    "summary": "Üretimi sürdürülebilir kılan küçük ritüeller.",
+    "moods": ["ilhamlı", "enerjik"],
+    "genres": ["kişisel gelişim", "deneme"]
+  },
+  {
+    "title": "Düşünmenin Mutluluğu",
+    "summary": "Yavaş ve derin düşüncenin sade keyfi.",
+    "moods": ["sakin", "düşünceli"],
+    "genres": ["deneme", "felsefe"]
+  },
+  {
+    "title": "Göçmen Kuşlar",
+    "summary": "Uzak ufuklara süzülen bir özgürlük hikâyesi.",
+    "moods": ["ilhamlı", "sakin"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Çöl Yıldızı",
+    "summary": "Kum denizinde yön bulmanın içsel haritası.",
+    "moods": ["sakin", "düşünceli"],
+    "genres": ["macera", "öykü"]
+  },
+  {
+    "title": "Rüzgârın Peşinde",
+    "summary": "Esintinin götürdüğü yollarda kısa uğraklar.",
+    "moods": ["mutlu", "sakin"],
+    "genres": ["öykü", "deneme"]
+  },
+  {
+    "title": "Kayıp Şehir",
+    "summary": "Harabeler arasında saklı tarihî bir bilmece.",
+    "moods": ["meraklı", "gergin"],
+    "genres": ["macera", "gerilim"]
+  },
+  {
+    "title": "Kuzey Işıkları",
+    "summary": "Soğuk göklerde parlayan umutlu bir yolculuk.",
+    "moods": ["sakin", "ilhamlı"],
+    "genres": ["öykü", "macera"]
+  },
+  {
+    "title": "Paslı Anahtar",
+    "summary": "Unutulmuş bir sandığın açtığı eski kapılar.",
+    "moods": ["meraklı", "sakin"],
+    "genres": ["gerilim", "öykü"]
+  },
+  {
+    "title": "Gece Yarısı Kütüphanesi",
+    "summary": "Seçimlerin olası hayatlara açtığı raflar.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["fantastik", "dram"]
+  },
+  {
+    "title": "Kırık Pusula",
+    "summary": "Yanlış yönlerin öğrettiği doğru dersler.",
+    "moods": ["ilhamlı", "sakin"],
+    "genres": ["öykü", "kişisel gelişim"]
+  },
+  {
+    "title": "Sisli Liman",
+    "summary": "Geliş ve gidişlerin gölgede kalan hikâyesi.",
+    "moods": ["hüzünlü", "sakin"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Kayıp Zamanlar Atlası",
+    "summary": "Eski notlarda saklı bir zaman yolculuğu.",
+    "moods": ["meraklı", "düşünceli"],
+    "genres": ["fantastik", "tarihi"]
+  },
+  {
+    "title": "Yalnız Gezgin",
+    "summary": "Sessiz patikalarda kendine doğru yürüyüş.",
+    "moods": ["sakin", "ilhamlı"],
+    "genres": ["deneme", "öykü"]
+  },
+  {
+    "title": "Kırık Kanatlar",
+    "summary": "Uçmayı unutan kalplerin yeniden denemesi.",
+    "moods": ["hüzünlü", "romantik"],
+    "genres": ["dram", "öykü"]
+  },
+  {
+    "title": "Taşların Dili",
+    "summary": "Kayanın sabrında yazılı kadim hikâyeler.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["tarihi", "deneme"]
+  },
+  {
+    "title": "Gölge Hırsızı",
+    "summary": "Zamanı çalan bir gölgenin peşinde iz sürüş.",
+    "moods": ["gergin", "meraklı"],
+    "genres": ["gerilim", "fantastik"]
+  },
+  {
+    "title": "Yol Arkadaşı",
+    "summary": "Tesadüflerin kurduğu beklenmedik bağlar.",
+    "moods": ["mutlu", "sakin"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Kumdan Kaleler",
+    "summary": "Dalga vurdukça yeniden kurulan hayaller.",
+    "moods": ["sakin", "hüzünlü"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Deniz Kabukları",
+    "summary": "Kıyıda toplanan hatıraların kısa sesi.",
+    "moods": ["sakin", "ilhamlı"],
+    "genres": ["öykü", "deneme"]
+  },
+  {
+    "title": "Gümüş Saat",
+    "summary": "Tıkırtılarda saklı bir aile sırrı.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["gerilim", "dram"]
+  },
+  {
+    "title": "Kayıp Mektuplar",
+    "summary": "Zamana takılmış sözcüklerin buluşması.",
+    "moods": ["romantik", "sakin"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Kırılgan Bahar",
+    "summary": "Tomurcukların sessizce büyüttüğü umut.",
+    "moods": ["mutlu", "sakin"],
+    "genres": ["öykü", "deneme"]
+  },
+  {
+    "title": "Karanlık Yokuş",
+    "summary": "Dar sokaklarda yankılanan bir kaçış.",
+    "moods": ["gergin", "meraklı"],
+    "genres": ["gerilim", "polisiye"]
+  },
+  {
+    "title": "Gizli Bahçe",
+    "summary": "Kilitli kapının ardında filizlenen hayat.",
+    "moods": ["ilhamlı", "mutlu"],
+    "genres": ["klasik", "öykü"]
+  },
+  {
+    "title": "Kış Güneşi",
+    "summary": "Soğuk günlerde içe düşen ılık bir ışık.",
+    "moods": ["sakin", "düşünceli"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Küller ve Rüzgâr",
+    "summary": "Dağılanların ardında kalan sessiz izler.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Karanlık Orkestra",
+    "summary": "Gizli bir melodinin peşinde gece yürüyüşü.",
+    "moods": ["gergin", "meraklı"],
+    "genres": ["gerilim", "öykü"]
+  },
+  {
+    "title": "Yitik Rüyalar",
+    "summary": "Uyanınca avuçta kalan kırıntı anlar.",
+    "moods": ["hüzünlü", "sakin"],
+    "genres": ["öykü", "psikoloji"]
+  },
+  {
+    "title": "Gecenin Nabzı",
+    "summary": "Şehrin karanlık ritminde hızlanan adımlar.",
+    "moods": ["enerjik", "gergin"],
+    "genres": ["gerilim", "polisiye"]
+  },
+  {
+    "title": "Puslu Kıtalar Atlası",
+    "summary": "Hayalin coğrafyasında tuhaf bir yolculuk.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["fantastik", "öykü"]
+  },
+  {
+    "title": "Beyoğlu Rapsodisi",
+    "summary": "Şehrin ışıkları altında kesişen hayatlar.",
+    "moods": ["enerjik", "düşünceli"],
+    "genres": ["dram", "polisiye"]
+  },
+  {
+    "title": "Aşk",
+    "summary": "Mevlânâ’nın gölgesinde yeniden doğan yakınlık.",
+    "moods": ["romantik", "düşünceli"],
+    "genres": ["dram", "tarihi"]
+  },
+  {
+    "title": "Serenad",
+    "summary": "Geçmişin sessiz kıyılarında bir buluşma.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["dram", "tarihi"]
+  },
+  {
+    "title": "Masumiyet Müzesi",
+    "summary": "Eşyaların sakladığı takıntılı bir aşk.",
+    "moods": ["düşünceli", "romantik"],
+    "genres": ["dram"]
+  },
+  {
+    "title": "Benim Adım Kırmızı",
+    "summary": "Minyatürlerin renklerinde gizlenen sırlar.",
+    "moods": ["meraklı", "düşünceli"],
+    "genres": ["tarihi", "polisiye"]
+  },
+  {
+    "title": "Kafamda Bir Tuhaflık",
+    "summary": "Şehrin dönüşümünde kaybolan küçük hayatlar.",
+    "moods": ["düşünceli", "hüzünlü"],
+    "genres": ["dram"]
+  },
+  {
+    "title": "Kar",
+    "summary": "Beyaz sessizlikte siyasetin ve inancın çatışması.",
+    "moods": ["düşünceli", "gergin"],
+    "genres": ["dram", "tarihi"]
+  },
+  {
+    "title": "Saatleri Ayarlama Ustası",
+    "summary": "Zamanın peşinde koşan takıntılı bir zihin.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["öykü", "dram"]
+  },
+  {
+    "title": "Kırlangıç Çığlığı",
+    "summary": "Bir dedektifin vicdanında yankılanan izler.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["polisiye", "gerilim"]
+  },
+  {
+    "title": "Beyaz Zambaklar Ülkesinde",
+    "summary": "Bir toplumun dönüşümüne ilham veren fikirler.",
+    "moods": ["ilhamlı", "düşünceli"],
+    "genres": ["deneme", "tarihi"]
+  },
+  {
+    "title": "Kuyruklu Yıldız Yağıyor",
+    "summary": "Gökyüzünden düşen bir haberin heyecanı.",
+    "moods": ["mutlu", "meraklı"],
+    "genres": ["öykü", "bilim kurgu"]
+  },
+  {
+    "title": "Araba Sevdası",
+    "summary": "Göstermenin gölgesinde kalan gerçek hayat.",
+    "moods": ["düşünceli", "sakin"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Çalıkuşu",
+    "summary": "İnatçı bir kalbin öğretmenlikteki sınavı.",
+    "moods": ["ilhamlı", "romantik"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Eylül",
+    "summary": "Sessiz evlilikte büyüyen ince bir sızı.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["klasik", "dram"]
+  },
+  {
+    "title": "Ateşten Gömlek",
+    "summary": "Kurtuluş ateşinde pişen yürekler.",
+    "moods": ["ilhamlı", "düşünceli"],
+    "genres": ["tarihi", "dram"]
+  },
+  {
+    "title": "Sinekli Bakkal",
+    "summary": "Eski İstanbul’da gelenek ve değişimin dansı.",
+    "moods": ["sakin", "düşünceli"],
+    "genres": ["klasik", "tarihi"]
+  },
+  {
+    "title": "Huzursuzluk",
+    "summary": "Sınırlar arasında sıkışan bir vicdan hikâyesi.",
+    "moods": ["düşünceli", "hüzünlü"],
+    "genres": ["dram", "tarihi"]
+  },
+  {
+    "title": "Kayıp Gül",
+    "summary": "Arayışın ortasında filizlenen sade mutluluk.",
+    "moods": ["mutlu", "sakin"],
+    "genres": ["öykü", "kişisel gelişim"]
+  },
+  {
+    "title": "Bilinmeyen Bir Kadının Mektubu",
+    "summary": "Sessiz bir sevdanın dile gelmeyen satırları.",
+    "moods": ["hüzünlü", "romantik"],
+    "genres": ["klasik", "öykü"]
+  },
+  {
+    "title": "Dalgalar ve Kumlar",
+    "summary": "Zamanın kıyıda bıraktığı küçük hikâyeler.",
+    "moods": ["sakin", "ilhamlı"],
+    "genres": ["öykü", "deneme"]
+  },
+  {
+    "title": "Gölge Oyunu",
+    "summary": "Işık ve karanlığın arasında kaybolan yüzler.",
+    "moods": ["gergin", "düşünceli"],
+    "genres": ["gerilim", "dram"]
+  },
+  {
+    "title": "Kayıp Hatıralar Müzesi",
+    "summary": "Eşyaların anlattığı kırık bir geçmiş.",
+    "moods": ["hüzünlü", "düşünceli"],
+    "genres": ["dram", "öykü"]
+  }
+]
