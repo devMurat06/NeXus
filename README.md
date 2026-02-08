@@ -98,3 +98,5 @@ Bu lisans, kodun kullanılmasına izin verirken, koddan türetilen tüm çalış
 
 ---
 **Geliştirici:** Murat [Sizin Adınız/Kullanıcı Adınız]
+
+N♥️
