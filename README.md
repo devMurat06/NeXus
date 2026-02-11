@@ -97,6 +97,4 @@ Bu proje **GNU General Public License v3.0 (GPLv3)** lisansı altında dağıtı
 Bu lisans, kodun kullanılmasına izin verirken, koddan türetilen tüm çalışmaların da açık kaynak olarak ve aynı lisans altında yayınlanmasını şart koşar. Ayrıntılar için `LICENSE` dosyasına bakınız.
 
 ---
-**Geliştirici:** Murat [Sizin Adınız/Kullanıcı Adınız]
-
-N♥️
+**Geliştirici:** Murat NAR
